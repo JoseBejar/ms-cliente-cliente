@@ -1,0 +1,10 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(╕И╞Ю     8Ў╧хрж2
+_
+java:S1172"=Remove these unused method parameters "request", "mediaType".(┌П█■■    8Н╨хрж2
+L	java:S106"+Replace this use of System.out by a logger.(Щ╕Ш╘№    8Н╨хрж2
+a
+java:S1128"?Remove this unused import 'org.springframework.http.MediaType'.(·Я▌п■    8О╨хрж2
+M
+java:S1068	"0Remove this unused "objectMapper" private field.(ь▓Ъз8О╨хрж2
